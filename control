@@ -1,0 +1,10 @@
+Package: com.qn.truelink
+Name: TrueLink
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Cleans copied links: resolves Google /goto, Reddit /s/ and amzn.to short links, unwraps redirects, strips tracking params.
+Maintainer: Qn
+Author: Qn
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.b4db1r3.cleancopy

@@ -1,0 +1,16 @@
+# Theos
+.theos/
+obj/
+
+# Logs and References
+reference/
+*.log
+
+# macOS
+.DS_Store
+
+# Editor
+.vscode/
+.cache/
+compile_commands.json
+

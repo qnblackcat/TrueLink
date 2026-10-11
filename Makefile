@@ -1,5 +1,3 @@
-THEOS_DEVICE_IP = 192.168.1.15
-
 TARGET := iphone:clang:16.5:15.0
 ARCHS = arm64 arm64e
 INSTALL_TARGET_PROCESSES = MobileSafari
